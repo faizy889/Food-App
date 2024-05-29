@@ -1,0 +1,482 @@
+[
+   {
+      "name": "Veggie Delight Pizza",
+      "sellerName": "Butt karahi",
+      "sellerProfileImageurl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2Fbuttkarahi.jpg?alt=media&token=e52199ee-34bf-4afe-b147-129db8f3380f",
+      "images": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2FVeggie3.JPG?alt=media&token=28e26ef6-5e5f-4460-8100-b6693a94bc0c"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2FVeggie1.PNG?alt=media&token=2f2fc4c9-cff7-4986-ab83-70b7166a385f"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2FVeggie2.jpg?alt=media&token=c2d26c98-9259-4707-884e-6bf7d14e8fbe"
+         }
+      ],
+      "ingredients": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fonion.jpg?alt=media&token=3231cc7e-77bd-47f9-9ff8-1d7398f97691"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Ftomato.jpg?alt=media&token=d8683e32-dffa-45f1-92a8-15f8f866b3ce"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fbread.jpg?alt=media&token=1a782928-9e13-4123-8b5f-b5f5f8f52ec3"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fchicken.jpg?alt=media&token=ca085e68-593a-42f7-92b3-345e04e438f6"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fegg.jpg?alt=media&token=5f9b8330-2c01-4501-8c11-08bb33687592"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fketchup.jpg?alt=media&token=2c6ddd51-bb11-45a1-9ee9-381f0ef47ff7"
+         }
+      ],
+      "category": "Pizza",
+      "description": "Indulge in a flavor-packed journey with our Veggie Delight Pizza, a culinary delight that celebrates the vibrant goodness of vegetables. Each bite is a mosaic of fresh, colorful veggies, nestled on a bed of melted cheese and savory sauce, creating a symphony of taste and texture that will tantalize your palate. From the crisp bell peppers to the juicy tomatoes and the earthy mushrooms, every ingredient harmonizes to create a sensation that's both satisfying and wholesome. Whether you're sharing it with loved ones or enjoying a moment of self-care, our Veggie Delight Pizza promises a burst of freshness and flavor in every bite\n🥦 Crisp bell peppers\n🍅 Juicy tomatoes\n🍄 Earthy mushrooms\n🧀 Cheese blend\n🌱 Fresh basil",
+      "deliveryTime": "21 min",
+      "distance": 3.0,
+      "ratings": 4.5,
+      "price": 899,
+      "likes": 275,
+      "reviews": [
+         {
+            "userID": "sarah_ali123",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fsarah.jpg?alt=media&token=9c72c94c-7a1d-4205-907f-606ac6fde3ca",
+            "Name": "Sarah Ali",
+            "ratings": 5,
+            "comment": "This pizza was absolutely delicious! It's now my new favorite. Can't wait to order again!"
+         },
+         {
+            "userID": "ahmed_khan786",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fahmad.jpg?alt=media&token=527be576-3cc6-43f3-a136-49245b716051",
+            "Name": "Ahmed Khan",
+            "ratings": 4,
+            "comment": "The crust was perfectly crispy, and the toppings were so fresh. Definitely worth ordering again!"
+         },
+         {
+            "userID": "aisha_mahmood456",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Faisha.jpg?alt=media&token=e6827528-6fe2-4746-b82c-bb9cad9087f7",
+            "Name": "Aisha Mahmood",
+            "ratings": 3,
+            "comment": "I've tried many pizzas, but this one stands out. The flavors were incredible, and the delivery was quick too!"
+         },
+         {
+            "userID": "bilal_hassan999",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fbilal.jpg?alt=media&token=d4145874-e8f3-4398-9087-f7f4d6ba8b6a",
+            "Name": "Bilal Hassan",
+            "ratings": 4,
+            "comment": "As a pizza enthusiast, I must say this exceeded my expectations. The quality of ingredients really shines through!"
+         },
+         {
+            "userID": "fatima_ahmed789",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Ffatima.jpg?alt=media&token=35533d98-acc7-46d1-9768-bd2443a9e5e7",
+            "Name": "Fatima Ahmed",
+            "ratings": 5,
+            "comment": "Wow! Just wow! This pizza was everything I hoped for and more. My taste buds are still thanking me!"
+         }
+      ]
+   },
+   {
+      "name": "Classic Margherita Pizza",
+      "sellerName": "Haveli Restaurant",
+      "sellerProfileImageurl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2Fhavelirestruant.png?alt=media&token=887886e6-bcd6-48c3-98a2-5636455956c3",
+      "images": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2Fclassic3.jpg?alt=media&token=252296fc-625f-4039-8c5c-a25ebaabf085"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2Fclassic2.jpg?alt=media&token=5c443540-bedd-46d4-a02d-9ccb2b1139be"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2Fclassic1.jpg?alt=media&token=70fee36d-2b55-4536-b882-1b4842e7a785"
+         }
+      ],
+      "ingredients": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fonion.jpg?alt=media&token=3231cc7e-77bd-47f9-9ff8-1d7398f97691"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Ftomato.jpg?alt=media&token=d8683e32-dffa-45f1-92a8-15f8f866b3ce"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fbread.jpg?alt=media&token=1a782928-9e13-4123-8b5f-b5f5f8f52ec3"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fchicken.jpg?alt=media&token=ca085e68-593a-42f7-92b3-345e04e438f6"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fegg.jpg?alt=media&token=5f9b8330-2c01-4501-8c11-08bb33687592"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fketchup.jpg?alt=media&token=2c6ddd51-bb11-45a1-9ee9-381f0ef47ff7"
+         }
+      ],
+      "category": "Pizza",
+      "description": "Indulge in a flavor-packed journey with our Veggie Delight Pizza, a culinary delight that celebrates the vibrant goodness of vegetables. Each bite is a mosaic of fresh, colorful veggies, nestled on a bed of melted cheese and savory sauce, creating a symphony of taste and texture that will tantalize your palate. From the crisp bell peppers to the juicy tomatoes and the earthy mushrooms, every ingredient harmonizes to create a sensation that's both satisfying and wholesome. Whether you're sharing it with loved ones or enjoying a moment of self-care, our Veggie Delight Pizza promises a burst of freshness and flavor in every bite\n🥦 Crisp bell peppers\n🍅 Juicy tomatoes\n🍄 Earthy mushrooms\n🧀 Cheese blend\n🌱 Fresh basil",
+      "deliveryTime": "15 min",
+      "distance": 2.3,
+      "ratings": 4.2,
+      "price": 1099,
+      "likes": 125,
+      "reviews": [
+         {
+            "userID": "sarah_ali123",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fsarah.jpg?alt=media&token=9c72c94c-7a1d-4205-907f-606ac6fde3ca",
+            "Name": "Sarah Ali",
+            "ratings": 5,
+            "comment": "This pizza was absolutely delicious! It's now my new favorite. Can't wait to order again!"
+         },
+         {
+            "userID": "ahmed_khan786",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fahmad.jpg?alt=media&token=527be576-3cc6-43f3-a136-49245b716051",
+            "Name": "Ahmed Khan",
+            "ratings": 4,
+            "comment": "The crust was perfectly crispy, and the toppings were so fresh. Definitely worth ordering again!"
+         },
+         {
+            "userID": "aisha_mahmood456",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Faisha.jpg?alt=media&token=e6827528-6fe2-4746-b82c-bb9cad9087f7",
+            "Name": "Aisha Mahmood",
+            "ratings": 3,
+            "comment": "I've tried many pizzas, but this one stands out. The flavors were incredible, and the delivery was quick too!"
+         },
+         {
+            "userID": "bilal_hassan999",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fbilal.jpg?alt=media&token=d4145874-e8f3-4398-9087-f7f4d6ba8b6a",
+            "Name": "Bilal Hassan",
+            "ratings": 4,
+            "comment": "As a pizza enthusiast, I must say this exceeded my expectations. The quality of ingredients really shines through!"
+         },
+         {
+            "userID": "fatima_ahmed789",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Ffatima.jpg?alt=media&token=35533d98-acc7-46d1-9768-bd2443a9e5e7",
+            "Name": "Fatima Ahmed",
+            "ratings": 5,
+            "comment": "Wow! Just wow! This pizza was everything I hoped for and more. My taste buds are still thanking me!"
+         }
+      ]
+   },
+   {
+      "name": "Spicy Pepperoni Pizza",
+      "sellerName": "Monal Lahore",
+      "sellerProfileImageurl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2Fmonal.jpg?alt=media&token=6df0c1ed-3d6a-4efc-bee0-4bef3110556a",
+      "images": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2Fone.jpg?alt=media&token=db538c5c-072a-4fb3-a429-9a9da8890aab"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2Fthree.jpg?alt=media&token=e8297268-74aa-4edd-88ec-e63cb99c7365"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2Ftwo.jpg?alt=media&token=1a8efc2e-c5dc-4837-b8e8-fd4b87443a13"
+         }
+      ],
+      "ingredients": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fonion.jpg?alt=media&token=3231cc7e-77bd-47f9-9ff8-1d7398f97691"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Ftomato.jpg?alt=media&token=d8683e32-dffa-45f1-92a8-15f8f866b3ce"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fbread.jpg?alt=media&token=1a782928-9e13-4123-8b5f-b5f5f8f52ec3"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fchicken.jpg?alt=media&token=ca085e68-593a-42f7-92b3-345e04e438f6"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fegg.jpg?alt=media&token=5f9b8330-2c01-4501-8c11-08bb33687592"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fketchup.jpg?alt=media&token=2c6ddd51-bb11-45a1-9ee9-381f0ef47ff7"
+         }
+      ],
+      "category": "Pizza",
+      "description": "Indulge in a flavor-packed journey with our Veggie Delight Pizza, a culinary delight that celebrates the vibrant goodness of vegetables. Each bite is a mosaic of fresh, colorful veggies, nestled on a bed of melted cheese and savory sauce, creating a symphony of taste and texture that will tantalize your palate. From the crisp bell peppers to the juicy tomatoes and the earthy mushrooms, every ingredient harmonizes to create a sensation that's both satisfying and wholesome. Whether you're sharing it with loved ones or enjoying a moment of self-care, our Veggie Delight Pizza promises a burst of freshness and flavor in every bite\n🥦 Crisp bell peppers\n🍅 Juicy tomatoes\n🍄 Earthy mushrooms\n🧀 Cheese blend\n🌱 Fresh basil",
+      "deliveryTime": "23 min",
+      "distance": 1.6,
+      "ratings": 3.9,
+      "price": 699,
+      "likes": 152,
+      "reviews": [
+         {
+            "userID": "sarah_ali123",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fsarah.jpg?alt=media&token=9c72c94c-7a1d-4205-907f-606ac6fde3ca",
+            "Name": "Sarah Ali",
+            "ratings": 5,
+            "comment": "This pizza was absolutely delicious! It's now my new favorite. Can't wait to order again!"
+         },
+         {
+            "userID": "ahmed_khan786",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fahmad.jpg?alt=media&token=527be576-3cc6-43f3-a136-49245b716051",
+            "Name": "Ahmed Khan",
+            "ratings": 4,
+            "comment": "The crust was perfectly crispy, and the toppings were so fresh. Definitely worth ordering again!"
+         },
+         {
+            "userID": "aisha_mahmood456",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Faisha.jpg?alt=media&token=e6827528-6fe2-4746-b82c-bb9cad9087f7",
+            "Name": "Aisha Mahmood",
+            "ratings": 3,
+            "comment": "I've tried many pizzas, but this one stands out. The flavors were incredible, and the delivery was quick too!"
+         },
+         {
+            "userID": "bilal_hassan999",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fbilal.jpg?alt=media&token=d4145874-e8f3-4398-9087-f7f4d6ba8b6a",
+            "Name": "Bilal Hassan",
+            "ratings": 4,
+            "comment": "As a pizza enthusiast, I must say this exceeded my expectations. The quality of ingredients really shines through!"
+         },
+         {
+            "userID": "fatima_ahmed789",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Ffatima.jpg?alt=media&token=35533d98-acc7-46d1-9768-bd2443a9e5e7",
+            "Name": "Fatima Ahmed",
+            "ratings": 5,
+            "comment": "Wow! Just wow! This pizza was everything I hoped for and more. My taste buds are still thanking me!"
+         }
+      ]
+   },
+   {
+      "name": "Hyderabadi Biryani",
+      "sellerName": "Qabail Tribes",
+      "sellerProfileImageurl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2Fqabail.png?alt=media&token=42b2b65c-6815-436f-a806-f76db95558ef",
+      "images": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2FHyderabadi%20Biryani1.jpg?alt=media&token=6c23c95d-d739-4b9f-9cc1-0bbcdf911789"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2FHyderabadi%20Biryani2.jpg?alt=media&token=63a571fb-14ad-48a4-a8ba-a49d186f43dd"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2Ftwo.jpg?alt=media&token=1a8efc2e-c5dc-4837-b8e8-fd4b87443a13"
+         }
+      ],
+      "ingredients": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fonion.jpg?alt=media&token=3231cc7e-77bd-47f9-9ff8-1d7398f97691"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Ftomato.jpg?alt=media&token=d8683e32-dffa-45f1-92a8-15f8f866b3ce"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fbread.jpg?alt=media&token=1a782928-9e13-4123-8b5f-b5f5f8f52ec3"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fchicken.jpg?alt=media&token=ca085e68-593a-42f7-92b3-345e04e438f6"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fegg.jpg?alt=media&token=5f9b8330-2c01-4501-8c11-08bb33687592"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fketchup.jpg?alt=media&token=2c6ddd51-bb11-45a1-9ee9-381f0ef47ff7"
+         }
+      ],
+      "category": "Biryani",
+      "description": "Indulge in a flavor-packed journey with our Veggie Delight Pizza, a culinary delight that celebrates the vibrant goodness of vegetables. Each bite is a mosaic of fresh, colorful veggies, nestled on a bed of melted cheese and savory sauce, creating a symphony of taste and texture that will tantalize your palate. From the crisp bell peppers to the juicy tomatoes and the earthy mushrooms, every ingredient harmonizes to create a sensation that's both satisfying and wholesome. Whether you're sharing it with loved ones or enjoying a moment of self-care, our Veggie Delight Pizza promises a burst of freshness and flavor in every bite\n🥦 Crisp bell peppers\n🍅 Juicy tomatoes\n🍄 Earthy mushrooms\n🧀 Cheese blend\n🌱 Fresh basil",
+      "deliveryTime": "23 min",
+      "distance": 2.8,
+      "ratings": 4.4,
+      "price": 399,
+      "likes": 52,
+      "reviews": [
+         {
+            "userID": "sarah_ali123",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fsarah.jpg?alt=media&token=9c72c94c-7a1d-4205-907f-606ac6fde3ca",
+            "Name": "Sarah Ali",
+            "ratings": 5,
+            "comment": "This pizza was absolutely delicious! It's now my new favorite. Can't wait to order again!"
+         },
+         {
+            "userID": "ahmed_khan786",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fahmad.jpg?alt=media&token=527be576-3cc6-43f3-a136-49245b716051",
+            "Name": "Ahmed Khan",
+            "ratings": 4,
+            "comment": "The crust was perfectly crispy, and the toppings were so fresh. Definitely worth ordering again!"
+         },
+         {
+            "userID": "aisha_mahmood456",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Faisha.jpg?alt=media&token=e6827528-6fe2-4746-b82c-bb9cad9087f7",
+            "Name": "Aisha Mahmood",
+            "ratings": 3,
+            "comment": "I've tried many pizzas, but this one stands out. The flavors were incredible, and the delivery was quick too!"
+         },
+         {
+            "userID": "bilal_hassan999",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fbilal.jpg?alt=media&token=d4145874-e8f3-4398-9087-f7f4d6ba8b6a",
+            "Name": "Bilal Hassan",
+            "ratings": 4,
+            "comment": "As a pizza enthusiast, I must say this exceeded my expectations. The quality of ingredients really shines through!"
+         },
+         {
+            "userID": "fatima_ahmed789",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Ffatima.jpg?alt=media&token=35533d98-acc7-46d1-9768-bd2443a9e5e7",
+            "Name": "Fatima Ahmed",
+            "ratings": 5,
+            "comment": "Wow! Just wow! This pizza was everything I hoped for and more. My taste buds are still thanking me!"
+         }
+      ]
+   },
+   {
+      "name": "Lucknowi Biryani",
+      "sellerName": "Monal Lahore",
+      "sellerProfileImageurl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2Fmonal.jpg?alt=media&token=6df0c1ed-3d6a-4efc-bee0-4bef3110556a",
+      "images": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2FHyderabadi%20Biryani3.jpg?alt=media&token=1aa9fb50-e5a7-4bfc-9643-84332fe14fc8"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2FHyderabadi%20Biryani2.jpg?alt=media&token=63a571fb-14ad-48a4-a8ba-a49d186f43dd"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Pizza%2Ftwo.jpg?alt=media&token=1a8efc2e-c5dc-4837-b8e8-fd4b87443a13"
+         }
+      ],
+      "ingredients": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fonion.jpg?alt=media&token=3231cc7e-77bd-47f9-9ff8-1d7398f97691"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Ftomato.jpg?alt=media&token=d8683e32-dffa-45f1-92a8-15f8f866b3ce"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fbread.jpg?alt=media&token=1a782928-9e13-4123-8b5f-b5f5f8f52ec3"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fchicken.jpg?alt=media&token=ca085e68-593a-42f7-92b3-345e04e438f6"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fegg.jpg?alt=media&token=5f9b8330-2c01-4501-8c11-08bb33687592"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fketchup.jpg?alt=media&token=2c6ddd51-bb11-45a1-9ee9-381f0ef47ff7"
+         }
+      ],
+      "category": "Biryani",
+      "description": "Indulge in a flavor-packed journey with our Veggie Delight Pizza, a culinary delight that celebrates the vibrant goodness of vegetables. Each bite is a mosaic of fresh, colorful veggies, nestled on a bed of melted cheese and savory sauce, creating a symphony of taste and texture that will tantalize your palate. From the crisp bell peppers to the juicy tomatoes and the earthy mushrooms, every ingredient harmonizes to create a sensation that's both satisfying and wholesome. Whether you're sharing it with loved ones or enjoying a moment of self-care, our Veggie Delight Pizza promises a burst of freshness and flavor in every bite\n🥦 Crisp bell peppers\n🍅 Juicy tomatoes\n🍄 Earthy mushrooms\n🧀 Cheese blend\n🌱 Fresh basil",
+      "deliveryTime": "12 min",
+      "distance": 0.5,
+      "ratings": 4.9,
+      "price": 999,
+      "likes": 177,
+      "reviews": [
+         {
+            "userID": "sarah_ali123",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fsarah.jpg?alt=media&token=9c72c94c-7a1d-4205-907f-606ac6fde3ca",
+            "Name": "Sarah Ali",
+            "ratings": 5,
+            "comment": "This pizza was absolutely delicious! It's now my new favorite. Can't wait to order again!"
+         },
+         {
+            "userID": "ahmed_khan786",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fahmad.jpg?alt=media&token=527be576-3cc6-43f3-a136-49245b716051",
+            "Name": "Ahmed Khan",
+            "ratings": 4,
+            "comment": "The crust was perfectly crispy, and the toppings were so fresh. Definitely worth ordering again!"
+         },
+         {
+            "userID": "aisha_mahmood456",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Faisha.jpg?alt=media&token=e6827528-6fe2-4746-b82c-bb9cad9087f7",
+            "Name": "Aisha Mahmood",
+            "ratings": 3,
+            "comment": "I've tried many pizzas, but this one stands out. The flavors were incredible, and the delivery was quick too!"
+         },
+         {
+            "userID": "bilal_hassan999",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fbilal.jpg?alt=media&token=d4145874-e8f3-4398-9087-f7f4d6ba8b6a",
+            "Name": "Bilal Hassan",
+            "ratings": 4,
+            "comment": "As a pizza enthusiast, I must say this exceeded my expectations. The quality of ingredients really shines through!"
+         },
+         {
+            "userID": "fatima_ahmed789",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Ffatima.jpg?alt=media&token=35533d98-acc7-46d1-9768-bd2443a9e5e7",
+            "Name": "Fatima Ahmed",
+            "ratings": 5,
+            "comment": "Wow! Just wow! This pizza was everything I hoped for and more. My taste buds are still thanking me!"
+         }
+      ]
+   },
+   {
+      "name": "Kolkata Biryani",
+      "sellerName": "Andaaz Restaurant",
+      "sellerProfileImageurl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Restaurants%2Fandaaz.jpg?alt=media&token=eed7a651-517c-47e0-8b8e-3e623019734a",
+      "images": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Biryani%2FKolkata%20Biryani1.jpg?alt=media&token=05227654-ed75-45b3-9c5e-4666d497ce75"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Biryani%2FKolkata%20Biryani2.jpg?alt=media&token=e77686d4-064c-4c56-9776-b18e7fa21b37"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Biryani%2FKolkata%20Biryani3.jpg?alt=media&token=236534e5-e52c-4484-8065-1f0f61b30e92"
+         }
+      ],
+      "ingredients": [
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fonion.jpg?alt=media&token=3231cc7e-77bd-47f9-9ff8-1d7398f97691"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Ftomato.jpg?alt=media&token=d8683e32-dffa-45f1-92a8-15f8f866b3ce"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fbread.jpg?alt=media&token=1a782928-9e13-4123-8b5f-b5f5f8f52ec3"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fchicken.jpg?alt=media&token=ca085e68-593a-42f7-92b3-345e04e438f6"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fegg.jpg?alt=media&token=5f9b8330-2c01-4501-8c11-08bb33687592"
+         },
+         {
+            "url": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/ingredients%2Fketchup.jpg?alt=media&token=2c6ddd51-bb11-45a1-9ee9-381f0ef47ff7"
+         }
+      ],
+      "category": "Biryani",
+      "description": "Indulge in a flavor-packed journey with our Veggie Delight Pizza, a culinary delight that celebrates the vibrant goodness of vegetables. Each bite is a mosaic of fresh, colorful veggies, nestled on a bed of melted cheese and savory sauce, creating a symphony of taste and texture that will tantalize your palate. From the crisp bell peppers to the juicy tomatoes and the earthy mushrooms, every ingredient harmonizes to create a sensation that's both satisfying and wholesome. Whether you're sharing it with loved ones or enjoying a moment of self-care, our Veggie Delight Pizza promises a burst of freshness and flavor in every bite\n🥦 Crisp bell peppers\n🍅 Juicy tomatoes\n🍄 Earthy mushrooms\n🧀 Cheese blend\n🌱 Fresh basil",
+      "deliveryTime": "23 min",
+      "distance": 1.6,
+      "ratings": 3.9,
+      "price": 699,
+      "likes": 152,
+      "reviews": [
+         {
+            "userID": "sarah_ali123",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fsarah.jpg?alt=media&token=9c72c94c-7a1d-4205-907f-606ac6fde3ca",
+            "Name": "Sarah Ali",
+            "ratings": 5,
+            "comment": "This pizza was absolutely delicious! It's now my new favorite. Can't wait to order again!"
+         },
+         {
+            "userID": "ahmed_khan786",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fahmad.jpg?alt=media&token=527be576-3cc6-43f3-a136-49245b716051",
+            "Name": "Ahmed Khan",
+            "ratings": 4,
+            "comment": "The crust was perfectly crispy, and the toppings were so fresh. Definitely worth ordering again!"
+         },
+         {
+            "userID": "aisha_mahmood456",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Faisha.jpg?alt=media&token=e6827528-6fe2-4746-b82c-bb9cad9087f7",
+            "Name": "Aisha Mahmood",
+            "ratings": 3,
+            "comment": "I've tried many pizzas, but this one stands out. The flavors were incredible, and the delivery was quick too!"
+         },
+         {
+            "userID": "bilal_hassan999",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Fbilal.jpg?alt=media&token=d4145874-e8f3-4398-9087-f7f4d6ba8b6a",
+            "Name": "Bilal Hassan",
+            "ratings": 4,
+            "comment": "As a pizza enthusiast, I must say this exceeded my expectations. The quality of ingredients really shines through!"
+         },
+         {
+            "userID": "fatima_ahmed789",
+            "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-6f4f9.appspot.com/o/Users%2Ffatima.jpg?alt=media&token=35533d98-acc7-46d1-9768-bd2443a9e5e7",
+            "Name": "Fatima Ahmed",
+            "ratings": 5,
+            "comment": "Wow! Just wow! This pizza was everything I hoped for and more. My taste buds are still thanking me!"
+         }
+      ]
+   }
+]
